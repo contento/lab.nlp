@@ -1,5 +1,9 @@
 ipykernel
+fasttext
 nltk
 pyrae
 spacy
+tensorflow 
+gensim
 svgling
+scikit-learn
